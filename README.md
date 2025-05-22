@@ -27,5 +27,5 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) centrado en los p
 
 ## 📁 Estructura del proyecto
 
--**En construcción...
+- En construcción...
 
